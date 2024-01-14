@@ -6,7 +6,7 @@
 
 AutoMeKin is employed in this example to study a MW-activated chemical reaction.
 
-Further details on the code: https://github.com/emartineznunez/AutoMeKin/wiki
+FINAL_LL_P
 
 This script shows how to create an interactive html with amk_tools (https://github.com/dgarayr/amk_tools) from int1 (MIN13) and int2 (MIN53):
 
