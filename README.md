@@ -12,4 +12,8 @@ This script shows how to create an interactive html with amk_tools (https://gith
 
 <code>amk_gen_view.py FINAL_LL_P/ RXNet.cg --cutoff_path 10  --paths MIN13  MIN53 </code>
 
+To run the test type:
+
+<code>nohup llcalcs.sh P.dat 30 10 30 > llcalcs.log 2>&1 & </code>
+
 The ouput file will be named network.html
