@@ -18,5 +18,6 @@ To run the abive test using 10 iterations type:
 
 where <code>ntasks</code> and <code>runningtasks</code> are defined here: https://rxnkin.usc.es/index.php/AutoMeKin#Program_execution
 
+<code>ntasks</code> should be at least 30
 
 The ouput file will be named network.html
