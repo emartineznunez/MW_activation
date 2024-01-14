@@ -16,6 +16,6 @@ To run the abive test using 10 iterations type:
 
 <code>nohup llcalcs.sh P.dat ntasks 10 runningtasks > llcalcs.log 2>&1 & </code>
 
-where ntasks and runningtasks are defined here: https://rxnkin.usc.es/index.php/AutoMeKin#Program_execution
+where <code>ntasks</code> and <code>runningtasks</code> are defined here: https://rxnkin.usc.es/index.php/AutoMeKin#Program_execution
 
 The ouput file will be named network.html
