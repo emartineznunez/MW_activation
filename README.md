@@ -21,3 +21,6 @@ where <code>ntasks</code> and <code>runningtasks</code> are defined here: https:
 <code>ntasks</code> should be at least 30
 
 The ouput file will be named network.html
+
+Finally, to detect the number of rings of each minima you can use the script <code>n_of_rings.sh</code>
+
