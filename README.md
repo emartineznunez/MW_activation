@@ -6,7 +6,7 @@
 
 AutoMeKin is employed in this example to study a MW-activated chemical reaction.
 
-FINAL_LL_P
+FINAL_LL_P contains the results after 12 iterations when MD sampling is used exciting a subset of atoms.
 
 This script shows how to create an interactive html with amk_tools (https://github.com/dgarayr/amk_tools) from int1 (MIN13) and int2 (MIN53):
 
