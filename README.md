@@ -12,8 +12,10 @@ This script shows how to create an interactive html with amk_tools (https://gith
 
 <code>amk_gen_view.py FINAL_LL_P/ RXNet.cg --cutoff_path 10  --paths MIN13  MIN53 </code>
 
-To run the test type:
+To run the abive test using 10 iterations type:
 
-<code>nohup llcalcs.sh P.dat 30 10 30 > llcalcs.log 2>&1 & </code>
+<code>nohup llcalcs.sh P.dat ntasks 10 runningtasks > llcalcs.log 2>&1 & </code>
+
+where ntasks and runningtasks are defined here: https://rxnkin.usc.es/index.php/AutoMeKin#Program_execution
 
 The ouput file will be named network.html
