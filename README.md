@@ -24,3 +24,5 @@ The ouput file will be named network.html
 
 Finally, to detect the number of rings of each minima you can use the script <code>n_of_rings.sh</code>
 
+Get the tests results form: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10598616.svg)](https://doi.org/10.5281/zenodo.10598616)
+
